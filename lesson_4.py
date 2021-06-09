@@ -28,6 +28,7 @@
 #
 # for count in range (num_of_nums):
 #          value = eval(input("Enter a value: "))
+#             num_of_nums= []
 #          sum = sum + value
 #
 # average = sum / num_of_nums
